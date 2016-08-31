@@ -6,6 +6,7 @@ public class UserBean {
 	private String name;
 	private String password;
 	
+	
 	public UserBean() {
 		
 	}
